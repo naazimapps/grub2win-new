@@ -4,7 +4,7 @@ A revised Grub2Win, with updated icons and newer graphics.
 The current Grub2Win 2.3.8.1 is outdated, with old icons and old graphics. I wanted to update it. It's still the same interface (mostly), but it has newer icons and backgrounds. 
 
 For best results, set G2W 3.0 to 1920x1080.
-
+If you find any bugs, let me know! Remember that any bugs that existed in the original G2W are still here.
 I am still working on the EXE, that is coming soon!
 
 ## Installation
